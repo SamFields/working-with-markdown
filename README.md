@@ -1,6 +1,20 @@
 # working-with-markdown
 A short README.md that explains how to get started with Markdown, a super-simple markup language for web pages
 
+## This is my New Section
+- Bulleted point
+- Bulleted point 2
+- Bulleted point 3
+1. Numbered point
+1. Numbered point 2
+1. Numbered point 3
+
+### Add a Webpage:
+- [Northwest Website](https://nwmissouri.edu/)
+
+### Show a Picture:
+![Hosted Image](https://upload.wikimedia.org/wikipedia/commons/3/32/Circle_Illusion.svg)
+
 ## Links
 
 - [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
